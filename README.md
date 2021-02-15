@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Github Repo stars](https://img.shields.io/github/followers/tosinnijis1?label=Vincent%20Adeniji&style=social)
-![Github Repo stars](https://img.shields.io/badge/LinkedIn-Vincent%20Adeniji-blue)
+![Github Repo stars](https://img.shields.io/badge/LinkedIn-Vincent%20Adeniji-blue/url?url=https%3A%2F%2Flinkedin.com/in/vincent-adeniji/)
