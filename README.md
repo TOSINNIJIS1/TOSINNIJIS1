@@ -17,7 +17,6 @@ My name is Vincent Adeniji. I'm a Fullstack Web Developer from Woodbridge,Virgin
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="mongodb"/>
 
 
-</p>
 ---
  🔭 I’m currently working on <a href=""> User-Admin Page </a>
 ---
@@ -25,11 +24,12 @@ My name is Vincent Adeniji. I'm a Fullstack Web Developer from Woodbridge,Virgin
 ---
  👯 I’m open for collaboration
 ---
+
 📫 if you have anything to ask me about you can reach me here
-<p>
   <a href="https://www.linkedin.com/in/vincent-adeniji/"> 
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vincent%20Adeniji-blue" />
   </a>
+---
 </p>
 ---
 ### GitHub Stats
