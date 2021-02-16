@@ -31,7 +31,7 @@ My name is Vincent Adeniji. I'm a Fullstack Web Developer from Woodbridge,Virgin
   </a>
 ---
 </p>
----
+
 ### GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=tosinnijis1&count_private=true&title_color=FD9047&text_color=0C2233&custom_title=Vincent+Adeniji's+GitHub+Stats&show_icons=true" 
