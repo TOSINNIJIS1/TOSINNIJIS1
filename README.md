@@ -1,5 +1,3 @@
-<!--
-**TOSINNIJIS1/TOSINNIJIS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Hi there, welcome to my GitHub Page 👋
 
@@ -45,3 +43,7 @@ My name is Vincent Adeniji. I'm a Fullstack Web Developer from Woodbridge,Virgin
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=tosinnijis1)
 <img src="https://github-readme-stats.vercel.app/api?username=tosinnijis1" />
+
+<!--
+**TOSINNIJIS1/TOSINNIJIS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
