@@ -1,7 +1,7 @@
 
 ### Hi there, welcome to my GitHub Page 👋
 
-My name is Vincent Adeniji. I'm a Fullstack Web Developer from Woodbridge,Virginia. I love to build pages and learn more stuff on my free time and non-free time also.
+My name is Vincent Adeniji. I'm a fullstack web developer from Woodbridge, Virginia. I love to build pages and learn more stuff on my free time and non-free time also.
 ---
 ### What I do?
 <p>
@@ -20,7 +20,7 @@ My name is Vincent Adeniji. I'm a Fullstack Web Developer from Woodbridge,Virgin
 ---
  🔭 I’m currently working on <a href=""> User-Admin-Page </a>
 ---
- 🌱 I’m currently learning POSTSQL
+ 🌱 I’m currently learning postgresql, and django to improve more on my server-side stack.
 ---
  👯 I’m open for collaboration
 ---
