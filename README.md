@@ -18,7 +18,7 @@
 ---
  🔭 I’m currently working on <a target="_blank" href=""> Growing </a>
 ---
- 🌱 I’m currently learning postgresql, and django to improve more on my server-side stack.
+ 🌱 I’m currently learning.
 ---
  👯 I’m open for collaboration
 ---
